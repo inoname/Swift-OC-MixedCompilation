@@ -8,3 +8,5 @@ Swift与OC混合编译
 
 ##OC调用Swift
 * 在OC文件中 #import "<#项目名称#>-Swift.h"
+
+![image](https://github.com/kouliang/Swift-OC-MixedCompilation/blob/master/image/1.png)
